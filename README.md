@@ -9,4 +9,4 @@ Personal finance ledger: balances and spending from a CSV file.
 
 ## Author
 
-elenaescribano-pixel
+<elenaescribano-pixel>
